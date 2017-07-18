@@ -19,13 +19,30 @@ header {
   text-align: center;
 }
 
-.card {
+.card1 {
   display: inline-block;
   width: 20%;
-  background: yellow;
+  background: purple;
   vertical-align:top;
 }
-
+.card2 {
+  display: inline-block;
+  width: 20%;
+  background: blue;
+  vertical-align:top;
+}
+.card3 {
+  display: inline-block;
+  width: 20%;
+  background: pink;
+  vertical-align:top;
+}
+.card4 {
+  display: inline-block;
+  width: 20%;
+  background: violet;
+  vertical-align:top;
+}
 .cookie-cards img {
   width: 100%;
 }
